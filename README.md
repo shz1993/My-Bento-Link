@@ -9,6 +9,11 @@
 
 ---
 
+## 🌐 Live Demo & Preview
+
+Try this app! :
+👉 **[https://my-bento-link.vercel.app/](https://my-bento-link.vercel.app/)**
+
 ## ✨ Key Features
 
 - 👤 **Dynamic Profile Page (`/[username]`)**: Each user has a unique public link based on their username.

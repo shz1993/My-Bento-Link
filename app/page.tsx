@@ -7,7 +7,7 @@ export default function Home() {
         My Bento Link 🍱
       </h1>
       <p className="text-slate-400 text-lg max-w-md mb-8">
-        Buat halaman profil personal dan tampilkan semua link pentingmu dalam satu tautan elegan.
+        Create your personal profile page and showcase all your important links in one elegant link.
       </p>
 
       <div className="flex gap-4">
@@ -15,13 +15,13 @@ export default function Home() {
           href="/dashboard"
           className="bg-blue-600 hover:bg-blue-500 text-white font-semibold px-6 py-3 rounded-full transition-all"
         >
-          Masuk ke Dashboard
+          Go to Dashboard
         </Link>
         <Link
           href="/shz1993"
           className="bg-slate-800 hover:bg-slate-700 text-slate-200 font-semibold px-6 py-3 rounded-full transition-all border border-slate-700"
         >
-          Lihat Contoh Profil
+          View Sample Profile
         </Link>
       </div>
     </main>
